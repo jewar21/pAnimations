@@ -1,0 +1,23 @@
+    // @import './base/base';
+    // @import './base/colors';
+
+// views
+// @import './views/home';
+
+// components
+@import './components/header';
+@import './components/cover';
+// @import './components/body';
+// @import './components/footer';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
